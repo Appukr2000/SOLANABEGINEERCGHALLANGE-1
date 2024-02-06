@@ -1,4 +1,4 @@
-# Solana Challange-1  Wallet Connection
+# SOLANA PROOF BEGINNER PROJECT-1(React Application)
 This is solana challenge-1 for. The script contains an application for demonstrating the connection and  transferring of SOL to a wallet through solana block chain using phantom wallet.
 
 
