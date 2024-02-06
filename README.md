@@ -1,5 +1,6 @@
 # SOLANA PROOF BEGINNER PROJECT-1(React Application)
-This is solana challenge-1 for. The script contains an application for demonstrating the connection and  transferring of SOL to a wallet through solana block chain using phantom wallet.
+Here, this is my project on solana proof beginner course provided my metacrafters, This repository conntains script for the application to demonstrating the connection and sending solana to the connected wallet through the solana block chain ,Here we use the wallet as Phantom wallet for the demonstration.
+
 
 
 ## Getting Started
